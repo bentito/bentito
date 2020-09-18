@@ -1,4 +1,4 @@
-### Hi there 👋
+### A little bit about me
 
 <!--
 **bentito/bentito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Quarkus-based operator: https://github.com/bentito/operator-example & more involved, here: https://github.com/bentitopolis/operator-quarkus and the way to find out what resources your k8s clusters are using: https://github.com/kube-reporting/metering-operator
+ - 🌱 I’m currently learning Bayesian Statistics: https://omscs.gatech.edu/isye-6420-bayesian-statistics
+ - 💬 Ask me about Java, Akka, Scala, gRPC, protobuf, Kubernetes, OpenShift, Python, Prometheus/Presto connector
+ - 📫 How to reach me: btofel at reknew.net
+ - 😄 Pronouns: He/Him/His
+ - ⚡ See https://github.com/bentitopolis for more projects.
